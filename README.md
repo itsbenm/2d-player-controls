@@ -2,10 +2,15 @@
 
 For bullet hell style game
 
---Controls--
+#### --Controls--
+
 
 Move up = UP ARROW
+
 Move down = DOWN ARROW
+
 Move left = LEFT ARROW
+
 Move right = RIGHT ARROW 
+
 Fire = SPACE
